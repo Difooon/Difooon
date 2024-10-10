@@ -9,7 +9,7 @@
 - 🍩 My hobbies are programming bots, playing games.
 - 🍵 I use GITHUB for the content of codes or websites.
 - 🍪 I am the owner of the WiniShop project !
-- 🥪 My email: officialdifoon@gmail.com
+- 🥪 My email: me@difoon.fun
 
 ### 📺 Languages and Programs:
 
