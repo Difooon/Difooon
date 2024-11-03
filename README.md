@@ -1,5 +1,5 @@
 
-# 🎳 Hi, i'm [DIFOON](https://t.me/difoon_bot)!
+# 🎳 Hi, i'm [oneXizz](https://t.me/onexizz_me)!
 
 [![](https://komarev.com/ghpvc/?username=Difooon&logo=github&style=for-the-badge&color=000000)](https://github.com/DIFOONofficial)
 <br />
@@ -8,8 +8,8 @@
 - 🍕 My name's Daniil.
 - 🍩 My hobbies are programming bots, playing games.
 - 🍵 I use GITHUB for the content of codes or websites.
-- 🍪 I am the owner of the WiniShop project !
-- 🥪 My email: me@difoon.fun
+- 🍪 I am the dev of the UNIQUE project !
+- 🥪 My email: me@onexizz.space
 
 ### 📺 Languages and Programs:
 
@@ -23,13 +23,13 @@
 
 ### 🍫 Socials:
 
-[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=Telegram)](https://t.me/difonhut)
-[![Discord](https://img.shields.io/badge/-Discord-090909?style=for-the-badge&logo=Discord)](https://discord.gg/FCPR7kRABs)
+[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=Telegram)](https://t.me/onexizz_live)
+[![Discord](https://img.shields.io/badge/-Discord-090909?style=for-the-badge&logo=Discord)](https://discord.com/users/1216074950025150644)
 [![YouTube](https://img.shields.io/badge/-YouTube-090909?style=for-the-badge&logo=YouTube&logoColor=E50000)](https://youtube.com/@alsodifoon)
 
 ### 📈 Statistics:
 
-[![DIFOON's Github Stats](https://github-readme-stats.vercel.app/api?username=Difooon&count_private=true&hide=contribs&show_icons=true&theme=radical)](https://github.com/Difooon)
+[![oneXizz's Github Stats](https://github-readme-stats.vercel.app/api?username=Difooon&count_private=true&hide=contribs&show_icons=true&theme=radical)](https://github.com/Difooon)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Difooon&count_private=true&hide=tsql&langs_count=7&theme=radical&layout=compact)](https://github.com/Difooon)
 
 ### 💵 Discord statistics
