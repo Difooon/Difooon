@@ -29,8 +29,8 @@
 
 ### 📈 Statistics:
 
-[![oneXizz's Github Stats](https://github-readme-stats.vercel.app/api?username=Difooon&count_private=true&hide=contribs&show_icons=true&theme=radical)](https://github.com/Difooon)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Difooon&count_private=true&hide=tsql&langs_count=7&theme=radical&layout=compact)](https://github.com/Difooon)
+[![oneXizz's Github Stats](https://github-readme-stats.vercel.app/api?username=Difooon&count_private=true&hide=contribs&show_icons=true&theme=radical)](https://github.com/onexizz)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Difooon&count_private=true&hide=tsql&langs_count=7&theme=radical&layout=compact)](https://github.com/onexizz)
 
 ### 💵 Discord statistics
 [![Discord Presence](https://lanyard.cnrad.dev/api/1216074950025150644)](https://discord.com/users/1216074950025150644)
