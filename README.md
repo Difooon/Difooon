@@ -41,11 +41,11 @@
   # 📈 GitHub Stats
   
   <img src="https://github-readme-stats.vercel.app/api?username=onexizz&show_icons=true&theme=dark&hide_border=true&bg_color=000000" alt="GitHub Stats">
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=onexizz&theme=dark&hide_border=true&background=000000" alt="GitHub Streak">
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=onexizz&layout=compact&theme=dark&hide_border=true&bg_color=000000" alt="Top Languages">
-  
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=onexizz&theme=dark&hide_border=true&background=000000" alt="GitHub Streak">
+
 </div>
 
 
