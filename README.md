@@ -1,37 +1,62 @@
+<div align="center">
+  <a href="https://onexizz.space">
+    <img src="https://media.onexizz.space/images/onexizz/onexizz.png" alt="Header">
+  </a>
 
-# 🎳 Hi, i'm [oneXizz](https://t.me/onexizz_me)!
+  # 👨‍💻 About Me
+  
+  ### Pythonist Developer
+  > 🤖 Discord & Telegram Bots Developer  
+  > 🌐 Web Developer  
+  > 💻 Python & NodeJS Enthusiast
 
-[![](https://komarev.com/ghpvc/?username=Difooon&logo=github&style=for-the-badge&color=000000)](https://github.com/DIFOONofficial)
-<br />
-[![](https://img.shields.io/youtube/channel/subscribers/UCVEGSAvkcIPhoCzcNPlQqFw?color=black&label=YouTube%20Subs&logo=youtube&logoColor=red&style=for-the-badge)](https://youtube.com/@alsodifoon)
-## 👨‍💻 Some Info:
-- 🍕 My name's Daniil.
-- 🍩 My hobbies are programming bots, playing games.
-- 🍵 I use GITHUB for the content of codes or websites.
-- 🍪 I am the dev of the UNIQUE project !
-- 🥪 My email: me@onexizz.space
+  # 📊 GitHub Analytics
+  
+  <p align="center">
+    <a href="https://github.com/onexizz">
+      <img src="https://komarev.com/ghpvc/?username=onexizz&logo=github&style=for-the-badge&color=000000" alt="Profile Views">
+    </a>
+    <a href="https://github.com/onexizz?tab=followers">
+      <img src="https://img.shields.io/github/followers/onexizz?style=for-the-badge&logo=github&color=000000" alt="Followers">
+    </a>
+    <a href="https://github.com/onexizz?tab=repositories">
+      <img src="https://img.shields.io/github/stars/onexizz?style=for-the-badge&logo=github&color=000000" alt="Stars">
+    </a>
+  </p>
 
-### 📺 Languages and Programs:
+  # 🛠 Technologies & Tools
+  
+  ![NodeJS](https://img.shields.io/badge/-NodeJS-090909?style=for-the-badge&logo=node.js&logoColor=339933)
+  ![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=python&logoColor=3776AB)
+  ![discord.js](https://img.shields.io/badge/-discord.js-090909?style=for-the-badge&logo=discord&logoColor=5865F2)
+  ![MongoDB](https://img.shields.io/badge/-MongoDB-090909?style=for-the-badge&logo=mongodb&logoColor=47A248)
+  ![sqlite3](https://img.shields.io/badge/-sqlite3-090909?style=for-the-badge&logo=sqlite&logoColor=07405E)
+  
+  ![linux](https://img.shields.io/badge/-linux-090909?style=for-the-badge&logo=linux&logoColor=FCC624)
+  ![windows](https://img.shields.io/badge/-windows-090909?style=for-the-badge&logo=windows&logoColor=0078D6)
+  ![pytelebot](https://img.shields.io/badge/-pytelebot-090909?style=for-the-badge&logo=telegram&logoColor=26A5E4)
+  ![vscode](https://img.shields.io/badge/-vscode-090909?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC)
+  ![disnake](https://img.shields.io/badge/-disnake-090909?style=for-the-badge&logo=discord&logoColor=5865F2)
 
-[![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=python)](https://en.wikipedia.org/wiki/Python_(programming_language))
-[![JS](https://img.shields.io/badge/-JS-090909?style=for-the-badge&logo=javascript)](https://wikipedia.org/wiki/JavaScript)
-[![HTML](https://img.shields.io/badge/-HTML-090909?style=for-the-badge&logo=html5)](https://wikipedia.org/wiki/HTML)
-[![VSCode](https://img.shields.io/badge/-VSCode-090909?style=for-the-badge&logo=VisualStudio&logoColor=00B6FF)](https://wikipedia.org/wiki/Visual_Studio_Code)
-[![CSS](https://img.shields.io/badge/-CSS-090909?style=for-the-badge&logo=CSS3&logoColor=008CFF)](https://wikipedia.org/wiki/CSS)
-[![Sublime Text](https://img.shields.io/badge/-Sublime%20Text-090909?style=for-the-badge&logo=SublimeText)](https://wikipedia.org/wiki/Sublime_Text)
-[![Atom](https://img.shields.io/badge/-Atom-090909?style=for-the-badge&logo=Atom)
+  # 📈 GitHub Stats
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=onexizz&show_icons=true&theme=dark&hide_border=true&bg_color=000000" alt="GitHub Stats">
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=onexizz&layout=compact&theme=dark&hide_border=true&bg_color=000000" alt="Top Languages">
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=onexizz&theme=dark&hide_border=true&background=000000" alt="GitHub Streak">
+</div>
 
-### 🍫 Socials:
 
-[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=Telegram)](https://t.me/onexizz_live)
-[![Discord](https://img.shields.io/badge/-Discord-090909?style=for-the-badge&logo=Discord)](https://discord.com/users/1216074950025150644)
-[![YouTube](https://img.shields.io/badge/-YouTube-090909?style=for-the-badge&logo=YouTube&logoColor=E50000)](https://youtube.com/@alsodifoon)
 
-### 📈 Statistics:
 
-[![oneXizz's Github Stats](https://github-readme-stats.vercel.app/api?username=onexizz&count_private=true&hide=contribs&show_icons=true&theme=radical)](https://github.com/onexizz)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=onexizz&count_private=true&hide=tsql&langs_count=7&theme=radical&layout=compact)](https://github.com/onexizz)
 
-### 💵 Discord statistics
-[![Discord Presence](https://lanyard.cnrad.dev/api/1216074950025150644)](https://discord.com/users/1216074950025150644)
+
+
+
+
+
+
+
+
 
