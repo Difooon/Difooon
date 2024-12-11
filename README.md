@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://onexizz.space">
-    <img src="https://media.onexizz.space/images/onexizz/onexizz.png" alt="Header">
+    <img src="https://onexizz.furryporno.ru/img/onexizz/onexizz.png" alt="Header">
   </a>
 
   # 👨‍💻 About Me
